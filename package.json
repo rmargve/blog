@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "midnight-blog",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "my attempt to creating statically generated blog",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Rom Midnight <remao.space@gmail.com>",
   "dependencies": {
     "gatsby": "^2.15.29",
     "gatsby-image": "^2.2.24",
@@ -12,6 +12,7 @@
     "gatsby-plugin-react-helmet": "^3.1.10",
     "gatsby-plugin-sharp": "^2.2.28",
     "gatsby-source-filesystem": "^2.1.29",
+    "gatsby-transformer-remark": "^2.6.38",
     "gatsby-transformer-sharp": "^2.2.20",
     "prop-types": "^15.7.2",
     "react": "^16.10.2",
@@ -22,7 +23,9 @@
     "prettier": "^1.18.2"
   },
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "blog",
+    "midnight-blog"
   ],
   "license": "MIT",
   "scripts": {
@@ -35,9 +38,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/rmargve/blog"
   }
 }
