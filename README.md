@@ -1,6 +1,4 @@
 # blog
-my blog(built on gatsby)
-
 
 At least I have a blog, I'm gonna be productive now!
 
