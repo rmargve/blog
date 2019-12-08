@@ -1,9 +1,21 @@
 import React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Img from "gatsby-image"
+
+// This ensures that the icon CSS is loaded immediately before attempting to render icons
+import "@fortawesome/fontawesome-svg-core/styles.css"
+
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
-import { faTelegram, faGithub, faTwitter } from "@fortawesome/free-brands-svg-icons"
+import {
+  faTelegram,
+  faGithub,
+  faTwitter,
+} from "@fortawesome/free-brands-svg-icons"
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons"
+
+import { config } from "@fortawesome/fontawesome-svg-core"
+// Prevent fontawesome from dynamically adding its css since we did it manually above
+config.autoAddCss = false
 
 export default () => {
   const data = useStaticQuery(graphql`
