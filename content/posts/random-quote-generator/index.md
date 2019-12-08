@@ -21,7 +21,7 @@ We want to generate random quotes, and we can choose from two options: fetch fro
 
 Webpage should do two things really, display a quote and a button to show a new quote. As a sugar on the top, you can display initial random quote without a button click. I hosted this little project on netlify(it is really easy, you just have to connect github repo to it and it will automatically deploy on commit). But beware of a monster out there! Gatsby can do development build (gatsby develop) and production build (gatsby build). On development build locally everything worked fine, but whenever I opened netlify hosted webpage It was redrawing quickly with another quote(not on button click, but on initial load).
 
-Getting two quotes on load? EASY! REACT COMPONENT BEING RENDERED TWICE, RIGHT?! It drove me crazy.
+Getting two quotes on load? EASY! REACT COMPONENT BEING RENDERED TWICE, RIGHT?!
 
 Gatsby build generates index.html, which will be filled with random quote(provided that you show quote on homepage and initially without a click). Turns out, that randomly generated quote was being embedded statically in index.html and netlify was SERVING that index.html, which itself showed one quote, but after react component render, new randomly chosen one was being shown. I still don't have a final solution, but what I did was an css "bounce" animation, so that quote box won't be shown instantly and quote redrawing won't be noticeable.
 
