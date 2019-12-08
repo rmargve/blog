@@ -35,7 +35,7 @@ export default () => {
         fluid={data.placeholderImage.childImageSharp.fluid}
         alt="Rom Midnight"
       />
-      <h1 className="font-bold text-2xl mt-6">
+      <h1 className="font-bold text-2xl mt-4">
         {data.site.siteMetadata.author}
       </h1>
       <div>
