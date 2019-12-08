@@ -1,10 +1,8 @@
 import { Link } from "gatsby"
 import React from "react"
 
-import "../styles/style.css"
-
 export default () => (
-  <nav className="text-teal-500 inline-block font-bold text-3xl mb-8 lg:m-16">
+  <nav className="xl:fixed text-teal-500 inline-block font-semibold text-3xl mb-8 lg:m-8">
     <Link to="/">Midnight</Link>
   </nav>
 )

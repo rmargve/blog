@@ -1,10 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import "../styles/style.css"
-
 export default ({ data }) => (
-  <div className="flex flex-col max-w-3xl mx-auto">
+  <div className="flex flex-col max-w-2xl mx-auto mt-24">
     {data.allMarkdownRemark.edges.map(edge => {
       return (
         <Link

@@ -2,7 +2,11 @@ module.exports = {
   siteMetadata: {
     title: `Midnight`,
     description: `Midnight blog`,
-    author: `@romMidnight`,
+    author: `Rom Midnight`,
+    github: `https://github.com/romMidnight`,
+    telegram: `https://t.me/romMidnight`,
+    twitter: `https://twitter.com/romMidnight`,
+    mail: `remao.space@gmail.com`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -25,13 +29,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Midnight Blog`,
+        short_name: `blog`,
         start_url: `/`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        icon: `content/images/moon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-transformer-remark`,
@@ -39,5 +43,19 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-typography`,
+      options: {
+        pathToConfigModule: `src/utils/typography`,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: false,
+        develop: false,
+        tailwind: true,
+      },
+    },
   ],
 }

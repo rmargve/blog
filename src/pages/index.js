@@ -4,11 +4,13 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import BlogPosts from "../components/blog-posts"
+import About from "../components/about"
 
 export default function IndexPage({ data }) {
   return (
     <Layout>
       <SEO title="home" />
+      <About />
       <BlogPosts data={data} />
     </Layout>
   )
