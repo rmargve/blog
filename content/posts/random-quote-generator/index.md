@@ -23,7 +23,7 @@ Webpage should do two things really, display a quote and a button to show a new 
 
 Getting two quotes on load? EASY! REACT COMPONENT BEING RENDERED TWICE, RIGHT?!
 
-Gatsby build generates index.html, which will be filled with random quote(provided that you show quote on homepage and initially without a click). Turns out, that randomly generated quote was being embedded statically in index.html and netlify was SERVING that index.html, which itself showed one quote, but after react component render, new randomly chosen one was being shown. I still don't have a final solution, but what I did was an css "bounce" animation, so that quote box won't be shown instantly and quote redrawing won't be noticeable.
+Gatsby does ssr(server side rendering) and gatsby build generates index.html, which will be filled with random quote(provided that you show quote on homepage and initially without a click). Turns out, that randomly generated quote was being embedded statically in index.html and netlify was SERVING that index.html, which itself showed one quote, but after react component render, new randomly chosen one was being shown. I still don't have a final solution, but what I did was an css "bounce" animation, so that quote box won't be shown instantly and quote redrawing won't be noticeable.
 
 That was it for today, and don't forget about responsive design, tailwind has a really good support for it, you just go mobile-first approach and if you don't like anything on bigger screen you overload utility classes, for example
 
