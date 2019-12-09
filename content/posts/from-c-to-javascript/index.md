@@ -1,6 +1,6 @@
 ---
 path: "/from-c-to-javascript"
-date: "2019-12-08T17:19:51.291Z"
+date: "2019-12-09T09:03:49.739Z"
 title: "From C to Javascript"
 tags: ["c", "javascript"]
 ---
