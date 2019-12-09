@@ -5,7 +5,7 @@ title: "From C to Javascript"
 tags: ["c", "javascript"]
 ---
 
-Yo, My name is Roma and I'm a 23yo software engineer from Tbilisi, Georgia.
+Yo, my name is Roma and I'm a 23yo software engineer from Tbilisi, Georgia.
 
 My introduction to programming world were video games and algorithms. Tools for getting what I wanted were C/C++. After finding first work, not only I Improved my C skills but got familiarized with linux & system programming in general. Several years ago I was straight out of school writing C. Young guy writing on C in 2013, unusual and impressive for people around me and I liked it.
 
