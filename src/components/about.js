@@ -34,7 +34,7 @@ export default () => {
   `)
 
   return (
-    <div className="xl:fixed inline-block text-teal-600 m-8 lg:m-24">
+    <div className="xl:fixed inline-block text-teal-600 m-8 lg:m-16 xl:m-24">
       <Img
         className="w-24 h-24 rounded-full"
         fluid={data.placeholderImage.childImageSharp.fluid}
