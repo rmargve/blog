@@ -29,6 +29,4 @@ I learn about new culture, I see things from new perspectives, it's like explora
 
 It tells you about people surrounding you, You detect people with mindset who has hard time putting up with someone who "is not alike". I don't know how to explain this well but in a nutshell it tells you about people's attitude to **difference**
 
-
-
-And also, all these egocentric reasons I talked about are a proof that you don't have to be altruistic or have noble intentions to go vegan 😅
+__And also, all these egocentric reasons I talked about are a proof that you don't have to be altruistic or have noble intentions to go vegan 😅__
