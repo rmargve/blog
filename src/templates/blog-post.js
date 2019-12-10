@@ -11,7 +11,7 @@ export default function Template({ data }) {
     <Layout>
       <Nav />
       <SEO title={post.frontmatter.title} />
-      <div className="max-w-4xl mx-auto p-4 mt-4">
+      <div className="max-w-2xl mx-auto p-4 mt-4">
         <h1 className="text-purple-600 font-bold text-4xl">
           {post.frontmatter.title}
         </h1>
