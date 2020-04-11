@@ -8,7 +8,7 @@ excerpt: "Delving into human inner workings via Psychology and Zen Buddhism"
 
 ## Part One
 
-**Disclaimer**: article, while written and told by me, is heavily inspired by Erich Fromm’s book “Zen Buddhism & Psychoanalysis”.
+*Disclaimer*: article, while written and told by me, is heavily inspired by Erich Fromm’s book “Zen Buddhism & Psychoanalysis”.
 
 Confident in my abilities, I’ve always admired my intellect and absolutely everything around me was subject of my rationalization. Only recently, have I come to revelation that rationalization and overthinking have a sole purpose: making world around us more tolerable. Trying to penetrate essence of things around me and have better understanding of them, I always had my intellect primed and more I resorted to my mental abilities to define and analyze surrounding world, more confident I felt. Until I started noticing patterns. Distorting reality for it to meet my needs. Aim of my so called rationalization was never to gain insight, but to output a fabricated world, more comfortable to live in. With this realization, I am shattering my illusion of superiority in my illusory world and acknowledge that world and reality as is, is much more interesting than living and dying in Plato’s cave. This is a beginning of my quest to dive deeper into human spirit, emotions, conscious and unconscious, to soothe a suffering of a man, keen to western rationalism, with eastern spiritualism.
 
