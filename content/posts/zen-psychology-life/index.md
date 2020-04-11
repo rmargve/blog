@@ -3,13 +3,14 @@ path: "/zen-psychology-life"
 date: "2020-04-11T17:59:13.138Z"
 title: "Zen Buddhism, Psychology, Daily Life"
 tags: ["zen buddhism", "psychology"]
+excerpt: "Delving into human inner workings via Psychology and Zen Buddhism"
 ---
 
-## Part One ##
+## Part One
 
-#### Disclaimer: article, while written and told by me, is heavily inspired by Erich Fromm’s book “Zen Buddhism & Psychoanalysis”. ###
+**Disclaimer**: article, while written and told by me, is heavily inspired by Erich Fromm’s book “Zen Buddhism & Psychoanalysis”.
 
-Confident in my abilities, I’ve always admired my intellect and absolutely everything around me was subject of my rationalization. Only recently, have I come to revelation that rationalization and overthinking have a sole purpose: making world around us more tolerable. Trying to penetrate essence of things around me and have better understanding of them, I always had my intellect primed and more I resorted to my mental abilities to define and analyze surrounding world, more confident I felt. Until I started noticing patterns. Distorting reality for it to meet my needs. Aim of my so called rationalization was never to gain insight, but to output a fabricated world, more comfortable to live in. With this realization, I am shattering my illusion of superiority in my illusory world and acknowledge that world and reality as is, is much more interesting than living and dying in Plato’s cave. This is a beginning of my quest to dive deeper into human spirit, emotions, conscious and unconscious, to soothe suffering of a western man, keen to rationalism, with eastern spiritualism.
+Confident in my abilities, I’ve always admired my intellect and absolutely everything around me was subject of my rationalization. Only recently, have I come to revelation that rationalization and overthinking have a sole purpose: making world around us more tolerable. Trying to penetrate essence of things around me and have better understanding of them, I always had my intellect primed and more I resorted to my mental abilities to define and analyze surrounding world, more confident I felt. Until I started noticing patterns. Distorting reality for it to meet my needs. Aim of my so called rationalization was never to gain insight, but to output a fabricated world, more comfortable to live in. With this realization, I am shattering my illusion of superiority in my illusory world and acknowledge that world and reality as is, is much more interesting than living and dying in Plato’s cave. This is a beginning of my quest to dive deeper into human spirit, emotions, conscious and unconscious, to soothe a suffering of a man, keen to western rationalism, with eastern spiritualism.
 
 Animals, unlike humans, are one with nature. They comply with it, live by its rules, in short, their life is led by it. We don’t submit to nature, we want to lead our lives by ourselves. With realization of our individualism, we are destined to feel loneliness and alienation to ourselves and outer world. For whole life, we try to ease and suppress feeling of loneliness and alienation caused by separation from nature. This desire can lead us to madness, complete detachment from reality, suicide, attachment to motherly love, submission to father figure or shifting focus to material possessions and social statuses.
 

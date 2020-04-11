@@ -12,7 +12,9 @@ export default ({ data }) => (
           <h1 className="text-purple-600 font-bold text-2xl">
             {edge.node.frontmatter.title}
           </h1>
-          <p className="text-gray-800 mt-4 text-lg">{edge.node.excerpt}</p>
+          <p className="text-gray-800 mt-4 text-lg">
+            {edge.node.frontmatter.excerpt || edge.node.excerpt}
+          </p>
         </Link>
       )
     })}
