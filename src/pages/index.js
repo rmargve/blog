@@ -1,10 +1,11 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import Layout from "../components/layout"
-import SEO from "../components/seo"
-import BlogPosts from "../components/blog-posts"
-import About from "../components/about"
+import Layout from "../components/Layout"
+import SEO from "../components/SEO"
+import BlogPosts from "../components/Posts"
+import About from "../components/About"
+import Tags from "../components/Tags"
 
 export default function IndexPage({ data }) {
   return (
@@ -12,6 +13,7 @@ export default function IndexPage({ data }) {
       <SEO title="home" />
       <About />
       <BlogPosts data={data} />
+      {/* <Tags data={data} /> */}
     </Layout>
   )
 }
@@ -29,6 +31,7 @@ export const pageQuery = graphql`
             title
             date
             excerpt
+            tags
           }
           excerpt
         }

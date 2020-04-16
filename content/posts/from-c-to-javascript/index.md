@@ -2,7 +2,7 @@
 path: "/from-c-to-javascript"
 date: "2019-12-09T09:03:49.739Z"
 title: "From C to Javascript"
-tags: ["c", "javascript"]
+tags: ["c", "javascript", "daily life"]
 ---
 
 Yo, my name is Roma and I'm a 23yo software engineer from Tbilisi, Georgia.

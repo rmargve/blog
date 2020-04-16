@@ -1,9 +1,9 @@
 import React from "react"
 import { graphql } from "gatsby"
 
-import SEO from "../components/seo"
-import Nav from "../components/nav"
-import Layout from "../components/layout"
+import SEO from "../components/SEO"
+import Nav from "../components/Nav"
+import Layout from "../components/Layout"
 
 export default function Template({ data }) {
   const { markdownRemark: post } = data
