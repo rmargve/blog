@@ -5,7 +5,7 @@ import Layout from "../components/Layout"
 import SEO from "../components/SEO"
 import BlogPosts from "../components/Posts"
 import About from "../components/About"
-import Tags from "../components/Tags"
+// import Tags from "../components/Tags"
 
 export default function IndexPage({ data }) {
   return (
