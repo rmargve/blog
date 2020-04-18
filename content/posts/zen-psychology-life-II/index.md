@@ -1,7 +1,7 @@
 ---
 path: "/zen-psychology-life-part-II"
-date: "2020-04-11T17:59:13.138Z"
-title: "Zen Buddhism, Psychology, Daily Life"
+date: "2020-04-18T18:49:52.892Z"
+title: "Zen Buddhism, Psychology, Daily Life. Part two"
 tags: ["zen buddhism", "psychology", "daily life"]
 excerpt: "Delving into human inner workings via Psychology and Zen Buddhism. Part II."
 ---
