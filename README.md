@@ -1,6 +1,6 @@
 # blog
 
-At least I have a blog, I'm gonna be productive now!
+At last I have a blog, I'm gonna be productive now!
 
 Done with gatsbyJS, tailwindCSS, netlify
 
